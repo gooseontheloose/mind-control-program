@@ -26,7 +26,7 @@ The Mind Control Program is a virtual assistant that guides users through the pr
 
 ## Dependencies
 
-- Python (version X.X)
+- Python (version 3.1.1)
 - OpenAI Python SDK (installation instructions [here](https://platform.openai.com/docs/sdk))
 
 ## Usage
